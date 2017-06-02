@@ -239,7 +239,7 @@
 				3941E2831ECDDCF5001B47C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		3941E2841ECDDCF5001B47C7 /* Build configuration list for PBXNativeTarget "cpp" */ = {
 			isa = XCConfigurationList;
@@ -248,6 +248,7 @@
 				3941E2861ECDDCF5001B47C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
